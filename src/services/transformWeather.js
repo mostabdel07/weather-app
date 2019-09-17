@@ -6,7 +6,7 @@ import {
     SNOW,
     THUNDER,
     DRIZZLE,
-} from './../constants/weathers';
+} from '../constants/weathers';
 
 
 const getTemp = kelvin => {

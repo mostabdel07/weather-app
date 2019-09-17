@@ -37,7 +37,7 @@ render() {
         <AppBar position='sticky'>
           <Toolbar>
             <Typography variant='title' color='inherit'>
-              Weather App 
+              Weather App
             </Typography>
           </Toolbar>
         </AppBar>
